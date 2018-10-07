@@ -3,7 +3,7 @@
 
 using namespace std;
 
-//Screen dimension constants
+//Screen dimension constants lalala
 const int SCREEN_WIDTH = 640;
 const int SCREEN_HEIGHT = 480;
 
